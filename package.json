@@ -1,0 +1,15 @@
+{
+  "name": "angular_learn",
+  "private": true,
+  "version": "0.0.0",
+  "description": "AngularJS learn project",
+  "repository": "https://github.com/pengwenfan012836/dropDown",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  },
+  "scripts": {
+    "prestart": "npm install",
+    "start": "http-server"
+  }
+}
